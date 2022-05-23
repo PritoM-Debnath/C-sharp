@@ -1,0 +1,14 @@
+C:\Users\PritoM\Desktop\C# Project\Project\Project\bin\Debug\Project.exe
+C:\Users\PritoM\Desktop\C# Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.FormEmployee.resources
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.FormInvoice.resources
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.FormLogin.resources
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.FormManager.resources
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.exe
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\PritoM\Desktop\C# Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\PritoM\Desktop\C# Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
